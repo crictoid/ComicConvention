@@ -1,0 +1,12 @@
+C:\Users\mdbul\source\repos\ComicConvention\bin\Debug\ComicConvention.exe.config
+C:\Users\mdbul\source\repos\ComicConvention\bin\Debug\ComicConvention.exe
+C:\Users\mdbul\source\repos\ComicConvention\bin\Debug\ComicConvention.pdb
+C:\Users\mdbul\source\repos\ComicConvention\bin\Debug\ComicConvention.xml
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.Resources.resources
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.exe
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.xml
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.pdb
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.vbproj.AssemblyReference.cache
+C:\Users\mdbul\source\repos\ComicConvention\obj\Debug\ComicConvention.frmComicConvention.resources
